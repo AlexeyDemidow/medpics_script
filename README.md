@@ -30,7 +30,7 @@
 ---
 ### Установка и запуск
 
-- `git clone ` - клонируем репозиторий
+- `git clone https://github.com/AlexeyDemidow/medpics_script.git` - клонируем репозиторий
 - `pip install -r requirements.txt` - устанавливаем зависимости
 - Используется chromedriver.exe версии 125
 - Запускаем `main.ipynb`
